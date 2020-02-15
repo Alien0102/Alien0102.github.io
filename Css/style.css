@@ -16,3 +16,8 @@
 th,td{
   text-align: center;
 }
+
+#firstdiv .primul{
+  text-align:center;
+  padding-top:200px;
+}
