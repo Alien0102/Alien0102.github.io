@@ -19,6 +19,7 @@ h1{
 }
 #message{
   background: #333;
+  text-align: center;
   color: #fff;
 }
 #gameBoard li{
